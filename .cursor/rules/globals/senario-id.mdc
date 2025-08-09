@@ -1,0 +1,13 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+
+# シナリオID
+
+## 一覧
+
+- 001
+  - `.cursor/rules/001` を参照
+
