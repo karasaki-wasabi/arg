@@ -9,47 +9,31 @@
 
 ## 研究室・施設
 
-- 計時通信システム研究室（高槻研究室）/ TCSL
+- 計時通信システム研究室（雨宮研究室）/ TCSL
   - 英名: Timing & Communication Systems Laboratory
-  - スラッグ: toei-tcsl
-  - 状態: 旧（活動終了済み／サイト更新停止）
+  - 状態: 活動終了済み / サイト更新停止
 
 ## 人物
 
-- 雨宮 昭二（教授）
-  - 読み: あまみや しょうじ
+- 雨宮 昭一（教授）
+  - 読み: あまみや しょういち
   - 役割: 元TCSL主宰、研究分野は計時・通信・時刻同期
 - 今野 真弓（総務部 デジタル化推進チーム）
   - 読み: こんの まゆみ
   - 役割: 依頼メール送信者／窓口担当
+  - 未来の自分
 
 ## プロジェクト/ページ名
 
 - アーカイブ復旧プロジェクト（Archive Restoration Project）
-- 作業ポータル（Work Portal）
-- 依頼メール（Request Mail）
-- 成果ページ（Results Page）
 
 ## システム/UI 用語（進捗・手順）
 
 - 進捗スキーマ: verify（確認） / restore（修正） / confirm（最終チェック）
-- フェーズ表示: "phase-1 passed" / "phase-2 pending"
-- 指標: 閉ループ率（Closed-loop rate）
 
 ## ファイル/技術項目（表記統一）
 
-- sitemap.xml（サイト全体の一覧）
-- checksums.sha256（照合用の一覧／ハッシュ）
-- ETag / Last-Modified（キャッシュ整合指標）
-- 代表的拡張子: ZIP / PNG / PDF / TXT / CSV / JSON
-
 ## 用語の訳語・対応（文中表記）
-
-- round-trip match = 往復一致
-- offset = 誤差（時刻のずれ）
-- checksum = 照合用の値（ハッシュ）
-- signature = 署名
-- timestamp = タイムスタンプ
 
 ## メール・URL（統一: toei-u.org）
 
